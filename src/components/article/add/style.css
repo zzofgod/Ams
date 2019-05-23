@@ -1,0 +1,8 @@
+.ant-row{
+    margin-bottom: 50px;
+}
+.ant-col-3{
+    text-align: right;
+    height: 32px;
+    line-height: 32px;
+}
